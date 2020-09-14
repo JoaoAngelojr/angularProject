@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Rat poison",
       "price": 20
+    },
+    {
+      "name": "Ant Poison",
+      "price": 12.56,
+      "id": 3
     }
   ]
 }
