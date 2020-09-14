@@ -6,3 +6,15 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .pied-piper-green {
     color: rgb(72, 163, 109);
 }
+
+.snack-bar-style {
+    background-color:  rgb(72, 163, 109);
+}
+
+.snack-bar-style .mat-button {
+    color: #FFF;
+}
+
+.snack-bar-style span {
+    color: #FFF;
+}
