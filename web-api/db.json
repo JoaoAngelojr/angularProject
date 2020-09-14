@@ -1,19 +1,14 @@
 {
-    "products": [
-        {
-            "id": "1",
-            "name": "Notebook Mac Pro",
-            "price": "6200"
-        },
-        {
-            "id": "2",
-            "name": "Celular Samsung S20+",
-            "price": "5000"
-        },
-        {
-            "id": "3",
-            "name": "Apple Watch Series 5 44m",
-            "price": "3230.59"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Cockroach Insecticide",
+      "price": "18.75"
+    },
+    {
+      "id": 2,
+      "name": "Rat poison",
+      "price": 20
+    }
+  ]
 }
