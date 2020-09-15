@@ -6,3 +6,8 @@
     margin: 10px 0px 0px 15px;
     width: 45%;
 }
+
+i.material-icons {
+    color:  rgb(72, 163, 109);
+    margin-right: 10px;
+}

@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Cockroach Insecticide",
-      "price": "18.75"
+      "name": "Cockroach Insecticide A+",
+      "price": 23.75
     },
     {
       "id": 2,
-      "name": "Rat poison",
-      "price": 20
+      "name": "Rat poison A+",
+      "price": 26.54
     },
     {
       "name": "Ant Poison",
