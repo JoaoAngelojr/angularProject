@@ -18,3 +18,16 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .snack-bar-style span {
     color: #FFF;
 }
+
+.msg-error {
+    background-color: rgb(255, 64, 64);
+    color: #FFF;
+}
+
+.msg-error .mat-button {
+    color: #FFF;
+}
+
+.msg-error-style span {
+    color: #FFF;
+}
