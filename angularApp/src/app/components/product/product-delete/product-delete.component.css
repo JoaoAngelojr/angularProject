@@ -8,7 +8,7 @@ button {
     margin: 20px 15px 0px 0px;
 }
 
-.create-button {
-    background-color: rgb(72, 163, 109);
+.delete-button {
+    background-color: rgb(255, 64, 64);
     color: #FFF;
 }
