@@ -4,11 +4,11 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .pied-piper-green {
-    color: rgb(72, 163, 109);
+    color: rgb(24, 170, 96, 1);
 }
 
 .snack-bar-style {
-    background-color:  rgb(72, 163, 109);
+    background-color:  rgb(24, 170, 96, 1);
 }
 
 .snack-bar-style .mat-button {
